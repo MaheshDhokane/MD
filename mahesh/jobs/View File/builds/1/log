@@ -1,0 +1,8 @@
+Started by user [8mha:////4NOzQn18G8DoLy4kqzuyiWNdjWLgZz2MDTZoBJ8YANh2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZu/dLi1CL9xJTczDwAla6dtsAAAAA=[0mMD
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/View File
+[View File] $ /bin/sh -xe /apache-tomcat-9.0.71/temp/jenkins1456406918961802406.sh
++ echo I am Jenkins
++ cat devops.html
+I am Jenkins
+Finished: SUCCESS

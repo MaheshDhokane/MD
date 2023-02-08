@@ -1,0 +1,10 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /root/mahesh/workspace/ABC
+[ABC] $ /bin/sh -xe /apache-tomcat-9.0.71/temp/jenkins8212072092411237111.sh
++ echo My name is khan i am most wanted trrerist
++ cat ab.html
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+Finished: SUCCESS

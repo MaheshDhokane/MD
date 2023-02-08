@@ -1,0 +1,3 @@
+[filesystem "Private Build|1.8.0_352|/dev/root"]
+	timestampResolution = 3001 microseconds
+	minRacyThreshold = 0 nanoseconds

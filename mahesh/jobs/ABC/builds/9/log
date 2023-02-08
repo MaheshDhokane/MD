@@ -1,0 +1,29 @@
+Started by user [8mha:////4NOzQn18G8DoLy4kqzuyiWNdjWLgZz2MDTZoBJ8YANh2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZu/dLi1CL9xJTczDwAla6dtsAAAAA=[0mMD
+Running as SYSTEM
+Building in workspace /root/mahesh/workspace/ABC
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /root/mahesh/workspace/ABC/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/MaheshDhokane/MD.git # timeout=10
+Fetching upstream changes from https://github.com/MaheshDhokane/MD.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/MaheshDhokane/MD.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 15be24113b184d2373e7eb224bff28edd458d0a4 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 15be24113b184d2373e7eb224bff28edd458d0a4 # timeout=10
+Commit message: "First commit"
+First time build. Skipping changelog.
+[ABC] $ /bin/sh -xe /apache-tomcat-9.0.71/temp/jenkins3881286348535173046.sh
++ echo My name is khan i am most wanted trrerist
++ cat ab.html
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+My name is khan i am most wanted trrerist
+Finished: SUCCESS
